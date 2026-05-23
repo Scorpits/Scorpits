@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Scorpits
 - 👀 I’m interested in Development and making fun projects
-- 🌱 I’m currently learning Python, C#, JS, CSS and HTML
+- 🌱 I’m currently learning Python, R and C
+- 📰 I love doing Data Science, using Pandas, Spark, Statsmodels, Scikit-Learn and others alike.
 - 📫 How to reach me: Discord Scorpits#9167
 <!---
 - 💞️ I’m looking to collaborate on ...
